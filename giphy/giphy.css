@@ -1,0 +1,15 @@
+.out{
+    display: grid;
+    grid-template-columns: repeat(4, minmax(100px, 1fr));
+}
+
+input{
+    width: 600px;
+    height: 30px;
+    margin-left: 360px;
+}
+button{
+    width: 250px;
+    height: 30px;
+    margin: 10px 0 0 530px;
+}
